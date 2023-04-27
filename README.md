@@ -36,7 +36,7 @@ Once you have Node.js and NPM installed, follow these steps:
 
 5. Open your web browser and go to `http://localhost:3000/` to view the application.
 
-![React Color Quiz Demo](https://imgur.com/fqSz2Wy)
+![React Color Quiz Screenshot](https://i.imgur.com/AfO9Bug.png)
 
 ## How to Play
 
